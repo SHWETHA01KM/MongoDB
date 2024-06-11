@@ -1,0 +1,50 @@
+name,age,courses,gpa,home_city,blood_group,is_hotel_resident
+Student 948,19,"['English', 'Computer Science', 'Physics', 'Mathematics']",3.44,City 2,O+,TRUE
+Student 157,20,"['Physics', 'English']",2.27,City 4,O-,TRUE
+Student 316,20,"['Physics', 'Computer Science', 'Mathematics', 'History']",2.32,,B+,TRUE
+Student 346,25,"['Mathematics', 'History', 'English']",3.31,City 8,O-,TRUE
+Student 930,25,"['English', 'Computer Science', 'Mathematics', 'History']",3.63,City 3,A-,TRUE
+Student 305,24,"['History', 'Physics', 'Computer Science', 'Mathematics']",3.4,City 6,O+,TRUE
+Student 268,21,"['Mathematics', 'History', 'Physics']",3.98,,A+,FALSE
+Student 563,18,"['Mathematics', 'English']",2.25,,AB+,FALSE
+Student 440,21,"['History', 'Physics', 'Computer Science']",2.06,City 10,O-,TRUE
+Student 536,20,"['History', 'Physics', 'English', 'Mathematics']",2.87,City 3,O-,FALSE
+Student 256,19,"['Computer Science', 'Mathematics', 'History', 'English']",2.94,City 1,B+,TRUE
+Student 177,23,"['Mathematics', 'Computer Science', 'Physics']",2.52,City 10,A+,TRUE
+Student 871,22,"['Mathematics', 'Computer Science']",3.2,,A-,FALSE
+Student 487,21,"['History', 'Physics', 'Computer Science']",2.1,City 3,B-,TRUE
+Student 213,18,"['English', 'History']",2.39,,B-,TRUE
+Student 690,22,"['History', 'Physics', 'Mathematics']",2.25,City 7,AB-,TRUE
+Student 368,20,"['English', 'History', 'Physics', 'Computer Science']",3.91,City 9,O-,FALSE
+Student 172,25,"['English', 'History', 'Physics', 'Mathematics']",2.46,City 3,A+,FALSE
+Student 647,21,"['English', 'Physics']",3.43,City 6,A+,TRUE
+Student 232,18,"['Computer Science', 'Physics', 'History', 'Mathematics']",2.54,City 1,B-,TRUE
+Student 328,21,"['Physics', 'Computer Science', 'English']",2.92,City 2,AB-,TRUE
+Student 690,24,"['Computer Science', 'English', 'History']",2.71,,AB+,FALSE
+Student 499,25,"['Mathematics', 'English', 'Computer Science', 'Physics']",2.04,,A+,FALSE
+Student 468,21,"['Computer Science', 'Physics', 'Mathematics', 'History']",3.97,,A-,TRUE
+Student 504,21,"['Physics', 'Computer Science', 'English', 'Mathematics']",2.42,City 2,B+,TRUE
+Student 652,18,"['History', 'Computer Science']",3.93,City 8,B+,FALSE
+Student 915,22,"['Computer Science', 'History', 'Physics', 'English']",2.87,,AB+,TRUE
+Student 127,19,"['History', 'English', 'Computer Science', 'Mathematics']",2.56,City 10,AB+,FALSE
+Student 239,21,"['English', 'Mathematics', 'Computer Science', 'Physics']",3.75,City 7,AB-,FALSE
+Student 770,24,"['History', 'Computer Science', 'Mathematics', 'English']",2.98,,B-,FALSE
+Student 367,25,"['History', 'Physics', 'Computer Science']",2.61,City 1,AB+,TRUE
+Student 268,19,"['Mathematics', 'Computer Science']",2.61,,A-,FALSE
+Student 384,18,"['Mathematics', 'Computer Science']",3.9,City 1,O-,FALSE
+Student 372,25,"['History', 'Computer Science', 'Physics', 'Mathematics']",3.06,City 6,AB+,FALSE
+Student 771,24,"['Computer Science', 'English', 'Physics', 'History']",3.59,City 7,O-,FALSE
+Student 969,24,"['History', 'Mathematics', 'Physics', 'English']",3.71,,B+,TRUE
+Student 502,25,"['Computer Science', 'Mathematics', 'English', 'Physics']",3.42,City 8,AB-,TRUE
+Student 504,23,"['English', 'Mathematics', 'Computer Science']",2.4,City 6,B-,TRUE
+Student 440,20,"['English', 'History']",2.32,City 6,A-,TRUE
+Student 201,18,"['Mathematics', 'History', 'Physics']",2.66,City 9,O-,TRUE
+Student 814,19,"['English', 'Physics', 'Computer Science', 'History']",3.58,,AB+,FALSE
+Student 901,24,"['History', 'Computer Science']",2.19,City 2,,TRUE
+Student 676,21,"['English', 'Physics', 'Mathematics', 'Computer Science']",3.59,City 2,AB+,TRUE
+Student 533,21,"['English', 'Physics']",3.26,City 10,AB-,FALSE
+Student 347,22,"['English', 'Computer Science', 'Physics']",2.17,,B-,TRUE
+Student 404,25,"['Mathematics', 'Physics', 'Computer Science', 'English']",2.59,City 10,AB-,FALSE
+Student 111,18,"['Physics', 'Computer Science']",2.99,,O+,FALSE
+Student 873,21,"['History', 'Mathematics', 'Physics']",3.94,City 8,O+,FALSE
+Student 871,19,"['Computer Science', 'English', 'History']",3.33,,O+,FALSE
